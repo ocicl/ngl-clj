@@ -1,0 +1,9 @@
+* ngl-clj
+
+A ngl widget for common-lisp-jupyter
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/yitzchak/ngl-clj.git |
+| commit  | 05fad88                                     |
+| systems | ngl-clj                                     |
+|---------+---------------------------------------------|
